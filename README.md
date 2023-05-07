@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: I have four adorable cats 🐱 named after food (Soba, Miso, Tofu and Nori)
-- 📫 How to reach me [here](mailto:chelleang51@gmail.com)
+- 📫 How to reach me: shoot me an e-mail [here](mailto:chelleang51@gmail.com)
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVjNDllZjFkOWI5YjcyNjM3ZmYzYzVkY2YzZGQ2YTljZjBkNWRlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UQ1EI1ML2ABQdbebup/giphy.gif" width="50" height="50" /> Tech Stack
 
