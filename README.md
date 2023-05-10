@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sarah Michelle Ang 
+# Hi there! I'm Sarah 👋 
 
 - 🔭 I’m currently working on [100 Days Of Python](https://github.com/yuzuryuu/100DaysOfPython)
 - 🌱 I’m currently learning Artificial Intelligence
