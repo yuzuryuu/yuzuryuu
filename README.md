@@ -1,8 +1,7 @@
 # Hi there! I'm Sarah 👋 
 
-- 🔭 I’m currently working on [100 Days Of Python](https://github.com/yuzuryuu/100DaysOfPython)
-- 🌱 I’m currently learning Artificial Intelligence
-- 😄 Pronouns: she/her/they
+- 🔭 I’m currently working on a Weather Web App called [Weatheria](https://github.com/yuzuryuu/Weatheria-App)
+- 🌱 I’m currently learning React and Node.js
 - ⚡ Fun fact: I have four adorable cats 🐱 named after food (Soba, Miso, Tofu and Nori)
 - 📫 Shoot me an e-mail [here](mailto:chelleang51@gmail.com)
 
@@ -17,6 +16,7 @@
 **yuzuryuu/yuzuryuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 😄 Pronouns: she/her/they
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
